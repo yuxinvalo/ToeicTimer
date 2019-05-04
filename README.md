@@ -4,8 +4,8 @@
 This is a tool which provids a simple TOEIC exercise timer.   
 Choosing the number of questions you need to finish and the estimate time then we start.     
 
-![]("preview1.PNG")
-![]("preview2.PNG")
+![](preview1.PNG)
+![](preview2.PNG)
 
 
 ## NOTICE
